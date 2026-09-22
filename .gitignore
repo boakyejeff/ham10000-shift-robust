@@ -1,0 +1,13 @@
+data/
+results/
+*.jpg
+*.jpeg
+*.png
+*.zip
+*.pt
+*.pth
+venvs/
+venv/
+__pycache__/
+*.pyc
+.env
