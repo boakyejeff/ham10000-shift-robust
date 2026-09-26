@@ -1,5 +1,6 @@
 # Source-Aware Evaluation of Skin Lesion Classification on HAM10000
 
+![Project cover](assets/cover.png)
 ## Novelty claim
 
 Most HAM10000 tutorials do **random train/test splits** and report ~85-90% accuracy.
